@@ -7,7 +7,7 @@ npm install sharp.css
 ```
 
 ```css
-@import './node_modules/sharp.css/sharp';
+@import 'node_modules/sharp.css/sharp';
 ```
 
 - Load [sharp.css](sharp.css) after your rounded corner implementation. [See demo.](https://ryanve.github.io/sharp.css/)
