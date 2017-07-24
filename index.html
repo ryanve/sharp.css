@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en-US" class="scheme-1">
+<meta charset="utf-8">
+<title>CSS sharp corners: sharp.css</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="CSS border-radius removal classes">
+<style>
+* { box-sizing: border-box }
+:focus { outline-color: currentColor }
+html { font-family: system-ui, sans-serif }
+body { margin: 0 auto }
+figure { margin-left: auto; margin-right: auto }
+code { font: inherit }
+.scheme-2 { background: DeepPink; color: Black }
+.scheme-1 { background: Purple; color: Yellow }
+.scheme-3 { background: Salmon; color: Black }
+.inline-block { display: inline-block }
+.block { display: block }
+.bullet-none { list-style: none }
+.rounded { border-radius: 1rem }
+</style>
+<link rel="stylesheet" href="sharp.css">
+<link rel="stylesheet" href="https://unpkg.com/spacing@0.1.0">
+
+<header class="p3 mb0 scheme-2">
+  <h1 class="mt0">sharp<wbr>.css</h1>
+  <a class="scheme-2" href="https://github.com/ryanve/sharp.css">Github</a>
+  <a class="scheme-2" href="https://www.npmjs.com/package/sharp.css">npm</a>
+  <a class="scheme-2" href="https://unpkg.com/sharp.css@latest">unpkg</a>
+</header>
+
+<figure class="p3 mb0">
+  <code class="p1 mb1 mr1 mr0-last inline-block scheme-2 rounded sharp">.sharp</code>
+  <code class="p1 mb1 mr1 mr0-last inline-block scheme-2 rounded sharp-top">.sharp-top</code>
+  <code class="p1 mb1 mr1 mr0-last inline-block scheme-2 rounded sharp-bottom">.sharp-bottom</code>
+  <code class="p1 mb1 mr1 mr0-last inline-block scheme-2 rounded sharp-right">.sharp-right</code>
+  <code class="p1 mb1 mr1 mr0-last inline-block scheme-2 rounded sharp-left">.sharp-left</code>
+</figure>
+
+<figure class="p3 mb0">
+  <ul class="bullet-none m0 p0">
+    <li class="p1 scheme-2 rounded sharp-stack">.sharp-stack
+    <li class="p1 scheme-3 rounded sharp-stack">.sharp-stack
+    <li class="p1 scheme-2 rounded sharp-stack">.sharp-stack
+  </ul>
+</figure>
+
+<figure class="p3 mb0">
+  <ul class="bullet-none m0 p0">
+    <li class="inline-block p1 scheme-2 rounded sharp-shelf">.sharp-shelf
+    <li class="inline-block p1 scheme-3 rounded sharp-shelf">.sharp-shelf
+    <li class="inline-block p1 scheme-2 rounded sharp-shelf">.sharp-shelf
+  </ul>
+</figure>

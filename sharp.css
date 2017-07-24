@@ -1,0 +1,9 @@
+.sharp { border-radius: 0 }
+.sharp-top { border-top-left-radius: 0; border-top-right-radius: 0 }
+.sharp-left { border-top-left-radius: 0; border-bottom-left-radius: 0 }
+.sharp-right { border-top-right-radius: 0; border-bottom-right-radius: 0 }
+.sharp-bottom { border-bottom-left-radius: 0; border-bottom-right-radius: 0 }
+.sharp-stack:not(:first-child) { border-top-left-radius: 0; border-top-right-radius: 0 }
+.sharp-stack:not(:last-child) { border-bottom-left-radius: 0; border-bottom-right-radius: 0 }
+.sharp-shelf:not(:first-child) { border-top-left-radius: 0; border-bottom-left-radius: 0 }
+.sharp-shelf:not(:last-child) { border-top-right-radius: 0; border-bottom-right-radius: 0 }
