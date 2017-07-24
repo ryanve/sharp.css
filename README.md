@@ -1,6 +1,6 @@
 # sharp.css
 
-CSS <b>border-radius</b> removal classes
+CSS [border-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius) removal classes
 
 ```
 npm install sharp.css
