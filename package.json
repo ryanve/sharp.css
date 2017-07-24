@@ -1,0 +1,29 @@
+{
+  "name": "sharp.css",
+  "version": "0.0.0",
+  "description": "CSS sharp corners",
+  "author": "Ryan Van Etten",
+  "license": "ISC",
+  "main": "sharp.css",
+  "scripts": {},
+  "homepage": "https://github.com/ryanve/sharp.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/sharp.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanve/sharp.css/issues"
+  },
+  "keywords": [
+    "functional-css",
+    "border-radius",
+    "contour",
+    "corners",
+    "corner",
+    "border",
+    "design",
+    "radii",
+    "css",
+    "ui"
+  ]
+}
