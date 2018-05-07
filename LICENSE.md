@@ -1,6 +1,4 @@
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-CC0 1.0 Universal
+[CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)
 
 Statement of Purpose
 
@@ -113,6 +111,3 @@ Affirmer's express Statement of Purpose.
   d. Affirmer understands and acknowledges that Creative Commons is not a
   party to this document and has no duty or obligation with respect to this
   CC0 or use of the Work.
-
-For more information, please see
-<http://creativecommons.org/publicdomain/zero/1.0/>
