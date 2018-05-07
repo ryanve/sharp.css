@@ -1,4 +1,4 @@
-.sharp { border-radius: 0 }
+.sharp-all { border-radius: 0 }
 .sharp-top { border-top-left-radius: 0; border-top-right-radius: 0 }
 .sharp-left { border-top-left-radius: 0; border-bottom-left-radius: 0 }
 .sharp-right { border-top-right-radius: 0; border-bottom-right-radius: 0 }

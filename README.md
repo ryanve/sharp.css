@@ -15,7 +15,7 @@ npm install sharp.css
 
 ## [Classes](https://ryanve.github.io/sharp.css/)
 
-### .sharp
+### .sharp-all
 
 Sharpen all corners.
 
