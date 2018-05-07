@@ -7,7 +7,7 @@ npm install sharp.css
 ```
 
 ```css
-@import 'node_modules/sharp.css/sharp';
+@import "node_modules/sharp.css/sharp";
 ```
 
 - Load [sharp.css](sharp.css) after your rounded corner implementation. [See demo.](https://ryanve.github.io/sharp.css/)
@@ -15,30 +15,30 @@ npm install sharp.css
 
 ## [Classes](https://ryanve.github.io/sharp.css/)
 
-### .sharp-all
+### `.sharp-all`
 
 Sharpen all corners.
 
-### .sharp-top
+### `.sharp-top`
 
 Sharpen top corners.
 
-### .sharp-bottom
+### `.sharp-bottom`
 
 Sharpen bottom corners.
 
-### .sharp-left
+### `.sharp-left`
 
 Sharpen left corners.
 
-### .sharp-right
+### `.sharp-right`
 
 Sharpen right corners.
 
-### .sharp-stack
+### `.sharp-stack`
 
 Sharpen vertical interior corners.
 
-### .sharp-shelf
+### `.sharp-shelf`
 
 Sharpen horizontal interior corners.
