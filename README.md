@@ -1,6 +1,6 @@
 # sharp.css
 
-CSS [border-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius) removal classes
+CSS [border-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius) border classes
 
 ```
 npm install sharp.css
@@ -10,10 +10,10 @@ npm install sharp.css
 @import "node_modules/sharp.css/sharp";
 ```
 
-- Load [sharp.css](sharp.css) after your rounded corner implementation. [See demo.](https://ryanve.github.io/sharp.css/)
-- Keep [contour bias](https://graphicdesign.stackexchange.com/a/84943/100255) in mind when designing corners.
+* Load [sharp.css](sharp.css) after your rounded corner implementation. [See demo.](https://ryanve.github.io/sharp.css/)
+* Keep [contour bias](https://graphicdesign.stackexchange.com/a/84943/100255) in mind when designing corners.
 
-## [Classes](https://ryanve.github.io/sharp.css/)
+## [classes](sharp.css)
 
 ### `.sharp-all`
 
@@ -42,3 +42,8 @@ Sharpen vertical interior corners.
 ### `.sharp-shelf`
 
 Sharpen horizontal interior corners.
+
+## [demos](https://ryanve.dev)
+
+* [sharp](https://ryanve.dev/sharp.css)
+* [spacing](https://ryanve.dev/spacing)
